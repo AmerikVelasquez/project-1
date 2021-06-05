@@ -1,0 +1,10 @@
+.all {
+  border:2px black;
+  padding:4px;
+  margin:10px;
+  color: black;
+}
+.centered {
+  width:auto
+  height:auto
+}
