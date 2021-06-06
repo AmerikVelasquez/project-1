@@ -5,6 +5,7 @@
   color: black;
 }
 .centered {
-  width:auto
-  height:auto
+  margin:auto;
+  width:30%;
+  height:30%;
 }
