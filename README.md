@@ -1,4 +1,4 @@
-# project-1
+# Portfolio
 #### By Amerik Velasquez 
 #### Portfolio main page
 ## Technology used 
