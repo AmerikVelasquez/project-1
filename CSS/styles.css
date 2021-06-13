@@ -5,9 +5,10 @@
   color: black;
 }
 .centered {
-  margin:auto;
+  margin:20px;
   width:30%;
   height:30%;
+  float:left
 }
 .color {
   color:blue
